@@ -1,0 +1,14 @@
+{
+  "name": "lukasz",
+  "version": "0.0.0",
+  "description": "sprawozdanie redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lukasz Miedla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
